@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">极简待办</string>
+    <string name="tasks_title">待办</string>
+    <string name="search_hint">搜索任务</string>
+
+    <string name="category_all">全部</string>
+    <string name="category_work">工作</string>
+    <string name="category_study">学习</string>
+    <string name="category_life">生活</string>
+    <string name="category_other">其他</string>
+
+    <string-array name="categories">
+        <item>@string/category_work</item>
+        <item>@string/category_study</item>
+        <item>@string/category_life</item>
+        <item>@string/category_other</item>
+    </string-array>
+
+    <string name="new_task">新建任务</string>
+    <string name="edit_task">编辑任务</string>
+    <string name="hint_title">标题</string>
+    <string name="hint_note">备注</string>
+    <string name="hint_category">分类</string>
+    <string name="due_time">截止时间</string>
+    <string name="due_pick">设置日期和时间</string>
+    <string name="clear_due">清除时间</string>
+    <string name="reminder">提醒</string>
+    <string name="reminder_permission">通知已关闭，收不到提醒</string>
+    <string name="go_settings">去设置</string>
+    <string name="save">保存</string>
+    <string name="delete">删除</string>
+    <string name="cancel">取消</string>
+    <string name="undo">撤销</string>
+    <string name="task_deleted">已删除</string>
+    <string name="task_completed">已完成</string>
+    <string name="delete_confirm_title">删除任务？</string>
+    <string name="delete_confirm_message">此操作无法恢复。</string>
+    <string name="empty_tasks">暂无任务</string>
+    <string name="empty_no_match">没有匹配的任务</string>
+    <string name="overdue_due">已逾期 · %1$s</string>
+    <string name="add_task">新建任务</string>
+    <string name="title_required">请输入标题</string>
+
+    <string name="settings">设置</string>
+    <string name="appearance">外观</string>
+    <string name="reminders">提醒</string>
+    <string name="notification_settings">通知设置</string>
+    <string name="exact_alarm_on">精确提醒：已开启</string>
+    <string name="exact_alarm_off">精确提醒：未开启</string>
+    <string name="exact_alarm_hint">未开启时，提醒可能会延迟</string>
+    <string name="theme_system">跟随系统</string>
+    <string name="theme_light">浅色</string>
+    <string name="theme_dark">深色</string>
+    <string name="show_completed">显示已完成</string>
+    <string name="data">数据</string>
+    <string name="export_json">导出 JSON</string>
+    <string name="clear_completed">清除已完成</string>
+    <string name="clear_completed_confirm">清除所有已完成的任务？</string>
+    <string name="confirm_clear">清除</string>
+    <string name="cleared">已清除</string>
+    <string name="exported">已导出</string>
+    <string name="export_failed">导出失败</string>
+
+    <string name="notification_channel">任务提醒</string>
+    <string name="notification_channel_desc">在任务到期时提醒你</string>
+    <string name="notification_text">任务到期了</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brand_primary">#9ED67F</color>
+    <color name="brand_on_primary">#163800</color>
+    <color name="brand_primary_container">#275000</color>
+    <color name="brand_on_primary_container">#B9F1A0</color>
+    <color name="brand_secondary">#BDCBB0</color>
+    <color name="brand_on_secondary">#283420</color>
+    <color name="brand_secondary_container">#3E4A35</color>
+    <color name="brand_on_secondary_container">#D9E7CB</color>
+
+    <color name="delete_red">#FFB4AB</color>
+    <color name="swipe_red">#B3261E</color>
+    <color name="overdue">#FFB4AB</color>
+</resources>
